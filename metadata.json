@@ -1,0 +1,9 @@
+{
+  "name": "Enterprise Infrastructure & Systems Management Console",
+  "description": "Unified GUI operations console for Windows & Linux Server Administration, Active Directory, Automation, IaC, VMware Virtualization, Incident RCA, Chef Configuration, and AI-powered SysAdmin intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
